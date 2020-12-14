@@ -1,5 +1,5 @@
 ---
-title: LA County Test Netlify
+title: Coffee town Test Netlify Hugo
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
